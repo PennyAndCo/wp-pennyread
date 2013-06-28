@@ -1,0 +1,155 @@
+# Plugin Name: PennyRead for WordPress
+# Plugin URI:  http://pennyread.com
+# Description: Bring PennyRead to your articles
+# Version:     1.0
+# Author:      Greg Deback, eko &co
+# Author URI:  http://eko.co
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: http://pennyread.com\n"
+"POT-Creation-Date: 2013-04-06 20:12+0100\n"
+"PO-Revision-Date: 2013-04-14 16:54+0100\n"
+"Last-Translator: Greg D <greg@eko.co>\n"
+"Language-Team: WP eko <wordpress@eko.co>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+
+# Options page
+
+msgid "optionsTitle"
+msgstr "Options PennyRead"
+
+msgid "optionsIntro"
+msgstr "PennyRead est le moyen le plus simple et le plus pratique de monétiser vos contenus.<br /><a href=\"http://pennyread.com\" target=\"_blank\">En savoir plus sur PennyRead...</a>"
+
+msgid "optionsSave"
+msgstr "Enregistrer les options"
+
+
+# Post options
+
+msgid "activeLabel"
+msgstr "Activer PennyRead ?"
+msgid "activeTip"
+msgstr "activer PennyRead sur cet article"
+
+msgid "priceLabel"
+msgstr "Prix de l'article"
+msgid "priceTip"
+msgstr "choisissez le prix par vue"
+
+
+# Video options
+
+msgid "videoLabel"
+msgstr "Options vidéos ?"
+msgid "videoTip"
+msgstr "activer les options vidéos"
+
+msgid "timerLabel"
+msgstr "Délai d'apparition"
+msgid "timerTip"
+msgstr "délai avant affichage du bouton"
+msgid "timer-1"
+msgstr "1 seconde"
+msgid "timer-2"
+msgstr "2 secondes"
+msgid "timer-5"
+msgstr "5 secondes"
+
+msgid "insetLabel"
+msgstr "Marge intérieure"
+msgid "insetTip"
+msgstr "largeur de la marge intérieure"
+msgid "inset-1in"
+msgstr "1 pouce"
+msgid "inset-2in"
+msgstr "2 pouces"
+
+msgid "widthLabel"
+msgstr "Largeur"
+msgid "widthTip"
+msgstr "largeur de la vidéo (en pixels)"
+
+msgid "heightLabel"
+msgstr "Hauteur"
+msgid "heightTip"
+msgstr "hauteur de la vidéo (en pixels)"
+
+
+# Global options
+
+msgid "editorLabel"
+msgstr "Identifiant éditeur"
+msgid "editorTip"
+msgstr "votre clé PennyRead"
+
+msgid "langLabel"
+msgstr "Langue"
+msgid "langTip"
+msgstr "langue d'affichage des textes"
+msgid "lang-auto"
+msgstr "Langue WordPress (défaut)"
+msgid "lang-global"
+msgstr "D'après options globales"
+msgid "lang-FR"
+msgstr "Français"
+msgid "lang-EN"
+msgstr "Anglais"
+msgid "lang-ES"
+msgstr "Espagnol"
+msgid "lang-DE"
+msgstr "Allemand"
+
+msgid "curLabel"
+msgstr "Devise"
+msgid "curTip"
+msgstr "devise du prix des articles"
+msgid "cur-global"
+msgstr "D'après options globales"
+msgid "cur-EUR"
+msgstr "EUR (&euro;)"
+msgid "cur-USD"
+msgstr "USD ($)"
+msgid "cur-GBP"
+msgstr "GBP (&pound;)"
+msgid "cur-RUB"
+msgstr "RUB"
+msgid "cur-CAD"
+msgstr "CAD"
+msgid "cur-AUD"
+msgstr "AUD"
+msgid "cur-JPY"
+msgstr "JPY"
+msgid "cur-CHF"
+msgstr "CHF"
+
+msgid "modeLabel"
+msgstr "Widget"
+msgid "modeTip"
+msgstr "mode de paiement des articles"
+msgid "mode-button"
+msgstr "Bouton (défaut)"
+msgid "mode-sms"
+msgstr "Par SMS (prochainement)"
+
+
+# Footer
+
+msgid "metaAbout"
+msgstr "Pour utiliser PennyRead sur cet article, commencez par sélectionner la partie du texte à monétiser puis cliquez sur le bouton <img src=\"/wp-content/plugins/wp-pennyread/icons/button.png\" valign=\"middle\" /> <em>PennyRead</em> dans la barre d'outils. Pour désactiver, placez le curseur à l'intérieur du texte sélectionné, puis cliquez à nouveau sur le bouton.<br />Si l'éditeur à créditer est différent de celui défini dans les options globales, saisissez son identifiant éditeur ci-dessous, sinon laissez le champ vide.<br /><a href=\"http://pennyread.com\" target=\"_blank\">En savoir plus sur PennyRead...</a>"
+
+
+# Explanation
+
+#, php-format
+msgid "readMoreFor"
+msgstr "Lire la suite pour %s %s"
+

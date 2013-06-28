@@ -1,0 +1,27 @@
+/*
+Plugin Name: PennyRead for WordPress
+Plugin URI:  http://pennyread.com
+Description: Bring PennyRead to your articles
+Version:     1.0
+Author:      Greg Deback, eko &co
+Author URI:  http://eko.co
+*/
+
+.pennyread {
+    border-left: 2px rgba(255, 0, 0, .3) solid;
+    padding-left: 10px;
+    margin-bottom: .5em;
+}
+.pennyread-more,
+.penny-read-more {
+    display: block;
+    margin-left: -12px;
+    height: 10px;
+    padding-top: 26px;
+    background: white url(icons/box.png) no-repeat left;
+    border-bottom: 2px rgba(255, 0, 0, .3) solid;
+    font: bold 9px/10px Helvetica, sans-serif;
+    text-transform: uppercase;
+    text-align: right;
+    color: #3f3f3f;
+}
